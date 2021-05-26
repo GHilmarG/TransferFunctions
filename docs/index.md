@@ -1,3 +1,6 @@
+
+
+
 # Transfer Functions
 
  
@@ -15,9 +18,12 @@ Example:
 
 ```
 T_SB_3vcs		:  full Stokes, bed-to-surface transfer from B to S in steady state
-```
+
 
 SSTREAM_Tuc_t_3d 	:  SSA/SSTREAM, time-dependent bed-to-surface transfer from basal slipperinss (c) to x component of surface velocity (u)
+```
+
+
 
 Run driver_FullStokes_GaussPeak.m to see the response to a
 Gaussian-shaped pertubation in bedrock and basal slipperiness on
