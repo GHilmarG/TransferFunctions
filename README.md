@@ -1,4 +1,4 @@
-# Handouts
+# Transfer Functions
 
 These functions describe the transfer of pertubations in bed
 topogrpahy (B) and basal slipperiness (C) on surface topograpy (S) and
