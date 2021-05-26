@@ -1,9 +1,9 @@
 # Transfer Functions
 
-
+README FILE
 
 These functions describe the transfer of pertubations in bed
-topogrpahy (B) and basal slipperiness (C) on surface topograpy (S) and
+topography (B) and basal slipperiness (C) on surface topograpy (S) and
 surface velocities (U and V) for both full Stokes and the SSA/STREAM systems.
 
 
