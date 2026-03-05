@@ -15,7 +15,7 @@ Run driver_FullStokes_GaussPeak.m to see the response to a Gaussian-shaped pertu
 
 To calculate the transfer, do a FFT of the basal pertubations,
 multiply with the transfer functions, and do an inverse FFT.  Have a
-look at driver_FullStokes_GuassPeak.m for an example of how to do
+look at driver_FullStokes_GuassPeak.m for an example on how to do
 this.
 
 Hilmar Gudmundsson
